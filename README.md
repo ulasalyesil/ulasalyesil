@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ulasalyesil, a multi-disciplinary creative. a music producer, designer and media artist.
+- 👋 Hi, I’m @ulasalyesil, a designer working on human experience in digital products and art forms.
 - 👀 I’m interested in Creative coding as a design and art tool.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on audio-visual projects.
+- 🌱 I’m currently learning programming to enhance user experience in my designs
 - 📫 How to reach me instagram @ulasalyesil
 
 <!---
