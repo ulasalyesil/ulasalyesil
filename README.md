@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ulasalyesil, a designer working on human experience in digital products and art forms.
+- 👋 Hi, I’m ulas, a designer working on human experience in digital products and art forms.
 - 👀 I’m interested in Creative coding as a design and art tool.
-- 🌱 I’m currently learning programming to enhance user experience in my designs
-- 📫 How to reach me instagram @ulasalyesil
+- 🌱 I’m currently learning designing experiences at jotform.
+- 📫 Reach me anywhere @ulasalyesil
 
 <!---
 ulasalyesil/ulasalyesil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
