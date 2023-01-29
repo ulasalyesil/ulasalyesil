@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ulas, a designer working on human experience in digital products and art forms.
 - 👀 I’m interested in Creative coding as a design and art tool.
-- 🌱 I’m currently learning designing experiences at jotform.
+- 🌱 I’m currently designing experiences at jotform.
 - 📫 Reach me anywhere @ulasalyesil
 
 <!---
