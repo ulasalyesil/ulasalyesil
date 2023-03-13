@@ -1,6 +1,7 @@
 - 👋 Hi, I’m ulas, a designer working on human experience in digital products and art forms.
 - 👀 I’m interested in Creative coding as a design and art tool.
 - 🌱 I’m currently designing experiences at jotform.
+- ▲ Building https://frey.money
 - 📫 go to https://bento.me/ulas
 
 <!---
